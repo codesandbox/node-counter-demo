@@ -1,0 +1,11 @@
+{
+  "name": "node-counter-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/codesandbox/node-counter-demo.git",
+  "license": "MIT",
+  "dependencies": {},
+  "scripts": {
+    "start": "node server.js"
+  }
+}
